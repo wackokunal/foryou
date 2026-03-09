@@ -107,7 +107,7 @@ button:hover
 {
     display: none;
     margin-top: 20px;
-    color: #ff4d88;
+    color: #200f14;
     font-size: 25px;
     font-weight: bold;
     line-height: 1.8;
@@ -266,4 +266,5 @@ button:hover
         transform: translateY(110vh) rotate(360deg);
         opacity: 0.8;
     }
+
 }
